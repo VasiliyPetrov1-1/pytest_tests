@@ -1,4 +1,5 @@
-описание к файлам check_tests.py и send_message_from_prepod_to_student.py
+Описание к файлам check_tests.py и send_message_from_prepod_to_student.py
+
 Линки, используемые в тестах нереальные, просто приведены для примера.
 
 
